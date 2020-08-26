@@ -66,7 +66,7 @@
     on:mousedown={dragMouseDown}
 >
     <div class="title-bar" draggable>
-        <span contenteditable="true">{title}</span>
+        <span draggable>{title}</span>
         <button aria-label="close"></button>
     </div>
     <div

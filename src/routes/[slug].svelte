@@ -23,16 +23,16 @@
 	<h1>{page.slug}</h1>
 	<CardManager>
 		<CardView x={100} y={100} width={300} title="Welcome to my site">
-			<h2 contenteditable="true">Hello World</h2>
-			<p contenteditable="true">Lorem ipsum dolor sit amet, <a href="//google.com">consectetur adipisicing</a> elit. Esse, nesciunt velit! Corrupti voluptatum voluptatem fuga excepturi, tenetur, eum expedita sit quisquam eligendi, culpa sed officia perspiciatis laudantium magni. Explicabo, dignissimos!</p>
+			<h2>Hello World</h2>
+			<p>Lorem ipsum dolor sit amet, <a href="//google.com">consectetur adipisicing</a> elit. Esse, nesciunt velit! Corrupti voluptatum voluptatem fuga excepturi, tenetur, eum expedita sit quisquam eligendi, culpa sed officia perspiciatis laudantium magni. Explicabo, dignissimos!</p>
 		</CardView>
 		<CardView x={200} y={200} width={300} title="Welcome to my site">
-			<h2 contenteditable="true">Hello World</h2>
-			<p contenteditable="true">Lorem ipsum dolor sit amet, <a href="//google.com">consectetur adipisicing</a> elit. Esse, nesciunt velit! Corrupti voluptatum voluptatem fuga excepturi, tenetur, eum expedita sit quisquam eligendi, culpa sed officia perspiciatis laudantium magni. Explicabo, dignissimos!</p>
+			<h2>Hello World</h2>
+			<p>Lorem ipsum dolor sit amet, <a href="//google.com">consectetur adipisicing</a> elit. Esse, nesciunt velit! Corrupti voluptatum voluptatem fuga excepturi, tenetur, eum expedita sit quisquam eligendi, culpa sed officia perspiciatis laudantium magni. Explicabo, dignissimos!</p>
 		</CardView>
 		<CardView x={300} y={300} width={300} title="Welcome to my site">
-			<h2 contenteditable="true">Hello World</h2>
-			<p contenteditable="true">Lorem ipsum dolor sit amet, <a href="//google.com">consectetur adipisicing</a> elit. Esse, nesciunt velit! Corrupti voluptatum voluptatem fuga excepturi, tenetur, eum expedita sit quisquam eligendi, culpa sed officia perspiciatis laudantium magni. Explicabo, dignissimos!</p>
+			<h2>Hello World</h2>
+			<p>Lorem ipsum dolor sit amet, <a href="//google.com">consectetur adipisicing</a> elit. Esse, nesciunt velit! Corrupti voluptatum voluptatem fuga excepturi, tenetur, eum expedita sit quisquam eligendi, culpa sed officia perspiciatis laudantium magni. Explicabo, dignissimos!</p>
 		</CardView>
 	</CardManager>
 </main>
